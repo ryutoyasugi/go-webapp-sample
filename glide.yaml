@@ -1,0 +1,3 @@
+package: github.com/ryutoyasugi/go-webapp-sample
+import:
+- package: github.com/comail/colog
